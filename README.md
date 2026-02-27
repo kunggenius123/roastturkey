@@ -1,1 +1,2 @@
-# roastturkey
+# Roast Turkey
+Discord Bot
